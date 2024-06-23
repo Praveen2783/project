@@ -1,3 +1,3 @@
-// add a number
+// add a number --btn
 
 // function addNumber(num) {
